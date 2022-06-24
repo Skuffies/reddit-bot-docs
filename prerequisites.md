@@ -8,7 +8,7 @@ description: >-
 
 ### Requirements:
 
-* [ ] Python, version 3.6+.
+* [ ] Python, version 3.7+.
 * [ ] Node.js.
 
 
@@ -19,7 +19,7 @@ First of all, check if you have Python 3.6+ already installed by running `python
 It returns the following output:
 
 ```
-Python 3.6.0
+Python 3.7.0
 ```
 
 Or anything above, than you can go to the next step.
@@ -53,7 +53,7 @@ choco install python
 
 ### Installing python on MacOS
 
-The easiest way to install Python 3.6+ on MacOS is to use the [Installer for Python](https://www.python.org/downloads/mac-osx/).
+The easiest way to install Python 3.7+ on MacOS is to use the [Installer for Python](https://www.python.org/downloads/mac-osx/).
 
 Once you landed on the download page, click on Latest Python3 release. Then, go to the end of the page and click the `macOS 64-bit universal2 installer` button.
 
@@ -70,7 +70,7 @@ If it returns the following output:
 
 
 ```
-Python 3.6.0
+Python 3.7.0
 ```
 
 Or anything above, than you can go to the next step.
