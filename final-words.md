@@ -16,4 +16,3 @@ Documentation:
 * [LukaHietala](https://github.com/LukaHietala) (`Pix.#0001`)
 * [micziz](https://github.com/micziz)
 * [CordlessCoder](https://github.com/CordlessCoder) (`Verq#2338`)
-
