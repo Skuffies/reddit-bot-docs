@@ -12,7 +12,7 @@ Start by visiting this [link](https://github.com/elebumm/RedditVideoMakerBot). O
 
 ![The green could be different in your case based on the theme.](<.gitbook/assets/image (1) (1) (1).png>)
 
-Once you click it, you should see three options: 
+Once you click it, you should see three options:
 
 <img src=".gitbook/assets/image (1) (1) (1) (1).png" width="300" heigth="300" alt="Buttons"/>
 
@@ -40,7 +40,7 @@ The repo will appear in your GitHub desktop app.
 
 or by **downloading the zip**
 
-![](<.gitbook/assets/image (1) (1).png>)
+![dzg](<.gitbook/assets/image (1) (1).png>)
 
 The download should start (on Firefox and similar you may need to confirm the download) and the files should be placed in your preferred location.
 
