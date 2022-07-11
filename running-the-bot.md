@@ -4,7 +4,7 @@ Now, we will be running the bot.
 
 Type `python3 main.py` (or `python main.py`) in your terminal (make sure it is the correct path).
 
-![](<.gitbook/assets/image (8) (1).png>)
+![](<.gitbook/assets/image (8) (1) (1).png>)
 
 You should see something like this. This indicates that you have done everything correctly.
 
@@ -12,5 +12,4 @@ Now each and every time you wish to produce an automated video like this one, al
 
 Some things to keep in mind are that the background video (parkour one) is a hour long clip, please do not delete this. The bot essentially picks two random points in the clip that is 60 seconds long and pastes it in as the background of the video.
 
-
-Once your video is processed, you should be able to view it!&#x20; To view it check out [this page](viewing-the-video.md)
+Once your video is processed, you should be able to view it! To view it check out [this page](viewing-the-video.md)

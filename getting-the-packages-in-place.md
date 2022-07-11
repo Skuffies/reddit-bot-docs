@@ -1,13 +1,12 @@
 # Getting the packages in place
 
-
 ## Windows
 
 **If you download the zip**
 
 Head over to the folder where all the files are stored. Once you are there, you should see a bar at the top showing the directory's path. Double click that:
 
-![](<.gitbook/assets/image (8) (1) (1).png>)
+![](<.gitbook/assets/image (8) (1) (1) (1).png>)
 
 Once you double click it, type `cmd` and press enter. You should see a _Command Prompt_ window pop up that is placed inside your source folder.
 
@@ -32,18 +31,17 @@ You can now run:
 pip3 install -r requirements.txt
 ```
 
-<details><summary>If error, panic and click on this</summary>
+<details>
 
-Try:
-`py -m pip install -r requirements.txt`
+<summary>If error, panic and click on this</summary>
+
+Try: `py -m pip install -r requirements.txt`
 
 If that doesn't work,
 
-`python -m pip install -r requirements.txt`
-If that doesn't work,
+`python -m pip install -r requirements.txt` If that doesn't work,
 
-`python3 -m pip install -r requirements.txt`
-If that doesn't work, INSTALL PYTHON
+`python3 -m pip install -r requirements.txt` If that doesn't work, INSTALL PYTHON
 
 </details>
 
@@ -55,32 +53,33 @@ First, go to the folders where the code is stored.
 
 Go to the downloads folder:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="download the zip" width="600">
+![download the zip](<.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 Then, click finder -> services -> new terminal at folder:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="opening terminal" width="600">
+![opening terminal](<.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 Once the terminal is opened, it should look something like this:
 
-<img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="terminal opened" width="600">
+![terminal opened](<.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Type in this command (or just copy it) `pip3 install -r requirements.txt`:
-<details><summary>If error, panic and click on this</summary>
+
+<details>
+
+<summary>If error, panic and click on this</summary>
 
 Try:
 
-`python -m pip install -r requirements.txt`
-If that doesn't work,
+`python -m pip install -r requirements.txt` If that doesn't work,
 
-`python3 -m pip install -r requirements.txt`
-If that doesn't work,
+`python3 -m pip install -r requirements.txt` If that doesn't work,
 
 INSTALL PYTHON
 
 </details>
 
-<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
+![command entered](<.gitbook/assets/image (2) (1) (1).png>)
 
 And this should appear on the screen!
 
@@ -99,26 +98,26 @@ Then install the
 ```
 pip3 install -r requirements.txt
 ```
-<details><summary>If error, panic and click on this</summary>
+
+<details>
+
+<summary>If error, panic and click on this</summary>
 
 Try:
 
-`python -m pip install -r requirements.txt`
-If that doesn't work,
+`python -m pip install -r requirements.txt` If that doesn't work,
 
-`python3 -m pip install -r requirements.txt`
-If that doesn't work,
+`python3 -m pip install -r requirements.txt` If that doesn't work,
 
 INSTALL PYTHON
 
 </details>
 
-<img src=".gitbook/assets/image (2) (1) (1).png" alt="command entered" width="600">
+![command entered](<.gitbook/assets/image (2) (1) (1).png>)
 
 And this should appear on the screen!
 
 ![](<.gitbook/assets/gif (1).gif>)
-
 
 ## Linux
 
@@ -149,15 +148,16 @@ You can now run:
 ```
 pip3 install -r requirements.txt
 ```
-<details><summary>If error, panic and click on this</summary>
+
+<details>
+
+<summary>If error, panic and click on this</summary>
 
 Try:
 
-`python -m pip install -r requirements.txt`
-If that doesn't work,
+`python -m pip install -r requirements.txt` If that doesn't work,
 
-`python3 -m pip install -r requirements.txt`
-If that doesn't work,
+`python3 -m pip install -r requirements.txt` If that doesn't work,
 
 INSTALL PYTHON
 
