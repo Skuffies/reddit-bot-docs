@@ -15,3 +15,4 @@
   * [Error #2](errors/error-2.md)
   * [Error #3](errors/error-3.md)
   * [Error #4](errors/error-4.md)
+* [Examples](examples.md)

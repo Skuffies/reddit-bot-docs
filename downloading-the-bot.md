@@ -6,17 +6,13 @@ description: >-
 
 # Downloading the Bot
 
-To download the bot, and also view the source code, you need to download it from the GitHub page of Lewis Menelaws.
+### To download the bot you can click this link  [Master Branch Download](https://github.com/elebumm/RedditVideoMakerBot/archive/refs/heads/master.zip)
 
-Start by visiting this [link](https://github.com/elebumm/RedditVideoMakerBot). Once you are there, you should see an option saying **code.**
+#### To view the source code of the master branch you can visit [The Video Maker Github](https://github.com/elebumm/RedditVideoMakerBot)!
 
-![The green could be different in your case based on the theme.](<.gitbook/assets/image (1) (1) (1).png>)
+##### To Download the Develop Branch click this link [Develop Branch Download](https://github.com/elebumm/RedditVideoMakerBot/archive/refs/heads/develop.zip)
 
-Once you click it, you should see three options:
-
-<img src=".gitbook/assets/image (1) (1) (1) (1).png" width="300" heigth="300" alt="Buttons"/>
-
-You can either **Clone the repo**:
+Other ways you can **Clone the repo**: Include
 
 Using git:
 
@@ -38,10 +34,10 @@ Use **Github Desktop**
 
 The repo will appear in your GitHub desktop app.
 
-or by **downloading the zip**
+or by **downloading the zip** (This is same thing as the downloads at the top of this doc
 
 ![dzg](<.gitbook/assets/image (1) (1).png>)
 
-The download should start (on Firefox and similar you may need to confirm the download) and the files should be placed in your preferred location.
+The download should start (on Firefox and similar you may need to confirm the download) and the files should be placed in your preferred location.)
 
-Once done, unzip the files.
+Once done, unzip the files. <------ This applies to the download links at the top of this doc aswell
