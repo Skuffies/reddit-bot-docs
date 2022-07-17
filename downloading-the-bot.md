@@ -36,7 +36,7 @@ The repo will appear in your GitHub desktop app.
 
 or by **downloading the zip** (This is same thing as the downloads at the top of this doc
 
-![](<.gitbook/assets/image (1) (1).png>)
+![dzg](<.gitbook/assets/image (1) (1).png>)
 
 The download should start (on Firefox and similar you may need to confirm the download) and the files should be placed in your preferred location.)
 
