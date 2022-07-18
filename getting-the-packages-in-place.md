@@ -1,33 +1,33 @@
-# Getting the packages in place
+# Installing required packages
 
 ## Windows
 
-**If you download the zip**
+### If you download the zip
 
 Head over to the folder where all the files are stored. Once you are there, you should see a bar at the top showing the directory's path. Double click that:
 
-![](<.gitbook/assets/image (8) (1) (1) (1).png>)
+![path](<.gitbook/assets/image (8) (1) (1) (1).png>)
 
 Once you double click it, type `cmd` and press enter. You should see a _Command Prompt_ window pop up that is placed inside your source folder.
 
-![](<.gitbook/assets/image (5).png>)
+![cmd](<.gitbook/assets/image (5).png>)
 
 Once in, type: `pip3 install -r requirements.txt`. Word to word! Again, make sure you are in the directory. Give it a few minutes and let it download the packages.\
 Once done, you should be seeing something like this:
 
-![](<.gitbook/assets/image (1).png>)
+![pip](<.gitbook/assets/image (1).png>)
 
-**If you cloned the repo**:
+### If you cloned the repo
 
 In the place where you initially cloned the repo, type this command:
 
-```
+```shell
 cd redditvideomakerbot
 ```
 
 You can now run:
 
-```
+```shell
 pip3 install -r requirements.txt
 ```
 
@@ -49,7 +49,7 @@ If that doesn't work,
 
 First, go to the folders where the code is stored.
 
-**If you downloaded the zip**:
+### If you downloaded the zip**:
 
 Go to the downloads folder:
 
@@ -83,19 +83,19 @@ INSTALL PYTHON
 
 And this should appear on the screen!
 
-![](<.gitbook/assets/gif (1).gif>)
+![gif](<.gitbook/assets/gif (1).gif>)
 
-**If you cloned the repo**:
+### If you cloned the repo:
 
 In the place where you initially cloned the repo, type this command:
 
-```
+```shell
 cd redditvideomakerbot
 ```
 
 Then install the
 
-```
+```shell
 pip3 install -r requirements.txt
 ```
 
@@ -117,35 +117,35 @@ INSTALL PYTHON
 
 And this should appear on the screen!
 
-![](<.gitbook/assets/gif (1).gif>)
+![gif](<.gitbook/assets/gif (1).gif>)
 
 ## Linux
 
 First go to the folders where the code is stored.
 
-**If you downloaded the zip**:
+### If you downloaded the zip**
 
 Go to the downloads folder, then right click on the zip file and click "Open folder in terminal":
 
 Then, type this command:
 
-```
+```shell
 pip3 install -r requirements.txt
 ```
 
 And everything should be installed!
 
-**If you cloned the repo!**:
+### If you cloned the repo:
 
 In the place where you initially cloned the repo, type this command:
 
-```
+```shell
 cd redditvideomakerbot
 ```
 
 You can now run:
 
-```
+```shell
 pip3 install -r requirements.txt
 ```
 

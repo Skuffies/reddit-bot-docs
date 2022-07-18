@@ -4,7 +4,7 @@ Now, we will be running the bot.
 
 Type `python3 main.py` (or `python main.py`) in your terminal (make sure it is the correct path).
 
-![](<.gitbook/assets/image (8) (1) (1).png>)
+![rtb](<.gitbook/assets/image (8) (1) (1).png>)
 
 You should see something like this. This indicates that you have done everything correctly.
 
