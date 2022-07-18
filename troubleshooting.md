@@ -1,8 +1,11 @@
+---
+description: Troubleshooting common problems
+---
 # Troubleshooting
 
 In this page we will outline some common errors that you may encounter in the process of installing and running the bot.
 
-## Error 1: 400 Eror
+## Error 1: 400 Error (or credentials error)
 
 This error means that your credentials are not set wright.
 

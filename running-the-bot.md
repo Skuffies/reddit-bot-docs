@@ -1,3 +1,6 @@
+---
+description: Running the bot.
+---
 # Running the bot
 
 Now, we will be running the bot.

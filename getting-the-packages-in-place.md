@@ -1,3 +1,6 @@
+---
+description: Installing the required packages
+---
 # Installing required packages
 
 ## Windows
@@ -70,8 +73,6 @@ Type in this command (or just copy it) `pip3 install -r requirements.txt`:
 <summary>If error, panic and click on this</summary>
 
 Try:
-
-`python -m pip install -r requirements.txt` If that doesn't work,
 
 `python3 -m pip install -r requirements.txt` If that doesn't work,
 

@@ -1,3 +1,7 @@
+---
+description: >-
+  Configuring the reddit API and the bot.
+---
 # Configuring The Bot
 
 We need to do some configuration before we can use the bot.
