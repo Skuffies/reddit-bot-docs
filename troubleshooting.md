@@ -32,3 +32,10 @@ Or
 pip3 install -r requirements.txt
 ```
 
+If you have a problem with a specific package, (eg: rich) install them by themselves.
+
+```shell
+pip3 install rich
+```
+
+If you have any other problems, checkout the [github repository](https://github.com/elebumm/RedditVideoMakerBot)
