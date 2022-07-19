@@ -147,7 +147,3 @@ description: >-
 * Korean, kr\_004 - Male 2
 
 <https://user-images.githubusercontent.com/61630074/178576631-ca896b76-fe5e-4496-a0fa-33d35e106b86.mp4>
-
-### Finished video
-
-<https://user-images.githubusercontent.com/61630074/178581079-871cdf3a-f5a2-4adc-a225-4b91f965c614.mp4>

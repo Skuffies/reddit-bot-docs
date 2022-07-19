@@ -33,3 +33,12 @@ Psst. We need your help! If you feel that the documentation is incomplete or wan
 [LukaHietala](https://github.com/LukaHietala) (Pix.#0001)
 
 [Freebiell](https://github.com/FreebieII) (Freebie#6429)
+
+## Documentation
+
+* [HarryDaDev](https://github.com/ImmaHarry) (`hrvyy#9677`)
+* [LukaHietala](https://github.com/LukaHietala) (`Pix.#0001`)
+* [micziz](https://github.com/micziz)
+* [CordlessCoder](https://github.com/CordlessCoder) (`Verq#2338`)
+
+(These aren't in any means exhaustive lists)
