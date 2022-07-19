@@ -41,4 +41,6 @@ If you have a problem with a specific package, (eg: rich) install them by themse
 pip3 install rich
 ```
 
+## Other problems
+
 If you have any other problems, checkout the [github repository](https://github.com/elebumm/RedditVideoMakerBot)

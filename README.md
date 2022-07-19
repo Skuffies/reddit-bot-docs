@@ -10,6 +10,10 @@ We have all seen those Text To Speech videos on YouTube and TikTok, right? A min
 
 (Generated just by code)
 
+Before we start tough there is an installation script that installs everything from scratch. If you are on MacOS or Linus i would strongly reccomend you use that:
+
+`bash <(curl -sL https://raw.githubusercontent.com/elebumm/RedditVideoMakerBot/master/install.sh)`
+
 All the credit for this bot's development goes to Lewis Menelaws. Get in touch with Lewis and his server filled with a bunch of lovely developers [here](https://discord.gg/5uw4eCQf6Z). To check out the project on github (and maybe leave a star on it), [click here](https://github.com/elebumm/RedditVideoMakerBot).
 
 This simple documentation will guide you through the installation process of the bot & its required source files and get you running in no time!
@@ -29,4 +33,3 @@ Psst. We need your help! If you feel that the documentation is incomplete or wan
 [LukaHietala](https://github.com/LukaHietala) (Pix.#0001)
 
 [Freebiell](https://github.com/FreebieII) (Freebie#6429)
-

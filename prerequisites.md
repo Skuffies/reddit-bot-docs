@@ -36,13 +36,13 @@ The easiest way to install Python on Windows is to use the [Python for Windows i
 
 When you install Python this way, you will see a checkbox at the bottom which says _Add Python 3.10.x to PATH._ **Make sure you check this box, it is extremely crucial!**
 
-![ipfw](<.gitbook/assets/image (2) (1).png>) ![ipfw](<.gitbook/assets/image (4).png>)
+![image](<.gitbook/assets/image (2) (1).png>) ![image](<.gitbook/assets/image (4).png>)
 
 Alternatively, you can download python from the Microsoft Store (do not recommend, it's an outdated version and not supported by the official developers).
 
 Finally, you can download python using a Package Manager (e.g. [Chocolatey](https://chocolatey.org/)) by running the following command:
 
-```pwsh
+```powershell
 choco install python
 ```
 
@@ -52,7 +52,7 @@ The easiest way to install Python 3.9+ on MacOS is to use the [Installer for Pyt
 
 Once you landed on the download page, click on Latest Python3 release. Then, go to the end of the page and click the `macOS 64-bit universal2 installer` button.
 
-Then, click the `Continue` button until the installation is complete.
+Then, click the `Continue` button until the installation is complete. (The installation will require your password)
 
 Then, to check if everything is working, run the following command:
 
@@ -76,13 +76,11 @@ After installing Homebrew, run the following command:
 brew install python@3.9
 ```
 
-(I do recommend you install the latest version of python
+(It is recommend you install the latest version of python)
 
-```bash
+```zsh
 brew install python@3.10
 ```
-
-)
 
 #### Installing python on Linux
 
