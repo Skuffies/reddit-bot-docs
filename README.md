@@ -10,7 +10,7 @@ We have all seen those Text To Speech videos on YouTube and TikTok, right? A min
 
 (Generated just by code)
 
-Before we start tough there is an installation script that installs everything from scratch. If you are on MacOS or Linus i would strongly reccomend you use that:
+Before we start tough there is an installation script that installs everything from scratch. If you are on MacOS or Linux i would strongly reccomend you use that:
 
 `bash <(curl -sL https://raw.githubusercontent.com/elebumm/RedditVideoMakerBot/master/install.sh)`
 
