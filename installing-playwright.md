@@ -33,9 +33,9 @@ pip3 install playwright
 The headless browser will take the screenshots needed for the video.
 
 ```shell
-playwright install
+python -m playwright install
 ```
 
 ```shell
-playwright install-deps
+python -m playwright install-deps
 ```
