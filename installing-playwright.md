@@ -1,8 +1,10 @@
 ---
-description: playwright is an API to automate browsers like Chrome, and Firefox. etc... It is needed to take screenshots of the reddit thread
+description: >-
+  playwright is an API to automate browsers like Chrome, and Firefox. etc... It
+  is needed to take screenshots of the reddit thread
 ---
 
-# Playwright
+# Installing playwright
 
 Playwright is installed in the requirements.txt.
 
@@ -16,7 +18,7 @@ Link to the installation guide: [https://playwright.dev/python/docs/intro#pip](h
 pip install -r requirements.txt
 ```
 
-If you do encounter errors, you can install it sperately by running these commands
+If you do encounter errors, you can install it separately by running these commands:
 
 ```bash
 pip install playwright
