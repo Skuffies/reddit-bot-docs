@@ -4,6 +4,8 @@ description: Start of the documentation!
 
 # The Reddit Bot?
 
+## This docs is depracated. New link: [https://reddit-video-maker-bot.netlify.app/](https://reddit-video-maker-bot.netlify.app/)
+
 We have all seen those Text To Speech videos on YouTube and TikTok, right? A Minecraft background, screenshots from a random Reddit thread, and TTS. Well, those low-effort videos can be completely automated now! Using this bot, you can produce a high-quality video (perfect for your TikTok and YouTube) in 5 to 10 minutes with almost no effort.
 
 ![video](samples/videos/askRedditFinished.mp4)
